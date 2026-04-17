@@ -46,7 +46,7 @@ padding:5px 10px;
 }
 
 input {
-  padding: 10px 20px;
+  padding: 5px 20px;
   margin-bottom:20px;
   border: none;
   display: block;
@@ -66,3 +66,10 @@ input {
     cursor: pointer;
     margin-bottom: 10px;
   }
+
+  .sign {
+    font-size:small;
+    margin-left:auto;
+  }
+
+  
